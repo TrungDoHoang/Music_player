@@ -92,7 +92,7 @@ const app = {
             name: "Sugar",
             singer: "Maroon 5",
             path: './assets/Audio/8.maroon_5_sugar.mp3',
-            image: './assets/img/9.sugar.jpg'
+            image: './assets/img/8.sugar.jpg'
         },
         {
             name: "All My Worst",
